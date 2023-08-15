@@ -22,12 +22,12 @@
 <body>
     <div class="container">
         <div class="row pt-4">
-            <div class="col-2 col-xl-3">
+            <div class="col-2 col-xl-3 " style="border: 10px; solid black;">
                 <ul>
-                    <a href=""><li>Overviwe</li></a>
-                    <a href=""><li>Echart</li></a>
-                    <a href=""><li>Profile</li></a>
-                    <a href=""><li>Mailbox</li></a>
+                    <a ><li>Overviwe</li></a>
+                    <a ><li>Echart</li></a>
+                    <a ><li>Profile</li></a>
+                    <a ><li>Mailbox</li></a>
                 </ul>
             </div>
             <div class="col-10 col-xl-9">
