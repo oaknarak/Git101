@@ -22,7 +22,7 @@
 <body>
     <div class="container">
         <div class="row pt-4">
-            <div class="col-2 col-xl-3 " style="border: 10px; solid black;">
+            <div class="col-2 col-xl-3" style="border: 10px; solid black;">
                 <ul>
                     <a ><li>Overviwe</li></a>
                     <a ><li>Echart</li></a>
